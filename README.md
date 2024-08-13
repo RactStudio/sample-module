@@ -1,4 +1,4 @@
-# Sample Module (EWPT Module) `v1.0.1`
+# Sample Module (EWPT Module) `v0.1.0`
 
 This is a sample module for developers to build module for EWPT.
 
