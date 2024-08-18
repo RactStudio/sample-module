@@ -11,7 +11,7 @@ This is a sample module for developers to build module for EWPT.
 
 ## At a Glance
 
-* Contributors:		    @mhrubel
+* Contributors:		    @ractstudio
 * Donate link:			  https://www.patreon.com/RactStudio
 * Requires at least:  5.0 (WordPress Version)
 * Tested up to WP:		6.6 (WordPress Version) (Should work on the later version)
